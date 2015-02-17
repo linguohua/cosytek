@@ -1,4 +1,0 @@
-[submodule "contiki"]
-	path = contiki
-	url = https://github.com/linguohua/contiki.git
-	branch = guohua-iar
